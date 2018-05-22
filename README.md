@@ -4,9 +4,10 @@ Below are projects that I have written, learned from in school, created at work,
 
 ## {210}
 
-* [alphacode](https://http://nolancassidy.com/alphacode_210/) - planet framework in python
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [squareroot](https://http://nolancassidy.com/alphacode_210/) -  *Python* - Approximate the square root of a number using iteration.
+* [majors](https://http://nolancassidy.com/alphacode_210/) -  *Python* - Exercise in careful loop design with a 'case breakdown' of what should happen on the first iteration, different possibilities in the loop body, and after the last iteration. Count number of elements in text file.
+* [drawflower](https://http://nolancassidy.com/alphacode_210/) -  *Python* - Practice drawing using turtle graphics.
+* [alphacode](https://http://nolancassidy.com/alphacode_210/) -  *Python* - Practice sequential programming. Understand numeric representation and modular arithmetic.
 
 ## Authors
 
