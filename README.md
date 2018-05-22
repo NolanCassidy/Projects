@@ -1,6 +1,8 @@
 # Projects
 
-Below are projects that I have written, learned from in school, created at work, forked for exploration, or are personal projects. This is intended for discussion and learning purposes only. Please do not copy or download any of the contents.
+Below are projects that I have written, learned from in school, created at work, forked for exploration, or are personal projects.
+This is intended for discussion and learning purposes only.
+Please do not copy or download any of the contents.
 
 * [squareroot](https://http://nolancassidy.com/alphacode_210/) - Approximate the square root of a number using iteration. *Python*
 * [counts](https://http://nolancassidy.com/alphacode_210/) - Exercise in careful loop design with a 'case breakdown' of what should happen on the first iteration, different possibilities in the loop body, and after the last iteration. Count number of elements in text file. *Python*
