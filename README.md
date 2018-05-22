@@ -1,4 +1,4 @@
-# Projects
+# Projects :computer:
 
 Below are projects that I have written, learned from in school, created at work, forked for exploration, or are personal projects.
 This is intended for discussion and learning purposes only.
