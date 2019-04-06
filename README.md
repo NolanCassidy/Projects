@@ -5,18 +5,25 @@ This is intended for discussion and learning purposes only.
 Please do not copy or download any of the contents.
 
 422 Software Methodology
+
 Spring 2019
 
 441 Computer Graphics
+
 Winter 2019
 
 433 Computer & Network Security
+
 Winter 2019
 
 415 Operating Systems
+
 Fall 2018
+
 Group Anagrams https://github.com/NolanCassidy/group-anagrams
+
 Master Control Program https://github.com/NolanCassidy/master-control-program
+
 OS Quaker Server Pub Sub https://github.com/NolanCassidy/os-quacker-server-pub-sub
 
 322 Intro Software Engineering
