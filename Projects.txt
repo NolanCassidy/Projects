@@ -1,12 +1,26 @@
+422 Software Methodologies
+Spring 2019
+Cold Call Helper https://github.com/NolanCassidy/cold_call_helper
+
+481 GIScience I
+Spring 2019
+
+160 Brains & Artificial Intelligence
+Spring 2019
+
 441 Computer Graphics
 Winter 2019
 Rasterization Phong Shading https://github.com/NolanCassidy/rasterization-phong-shading
+Rasterization Scanline Algorithm https://github.com/NolanCassidy/rasterization-scanline-algorithm
 OpenGL Graphics https://github.com/NolanCassidy/opengl-graphics
 Graphics Final Project https://github.com/NolanCassidy/graphics-final-project
 
 433 Computer & Network Security
 Winter 2019
 Copyright Data Labeling https://github.com/NolanCassidy/copyright-data-labeling
+
+281 The World & Big Data
+Winter 2019
 
 415 Operating Systems
 Fall 2018
@@ -23,7 +37,7 @@ Oakwood Worldwide IT Internship https://www.oakwood.com
 Summer 2018
 Internal Pricing Bot
 External Help Bot https://www.oakwood.com/help
-Other Test Bots
+Other Test Bots https://github.com/NolanCassidy/dialogflow_bots
 
 330 C/C++ & Unix
 Spring 2018
