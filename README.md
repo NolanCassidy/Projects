@@ -2,6 +2,8 @@
 
 Cold Call Helper https://github.com/NolanCassidy/cold_call_helper
 
+Craiglist app https://github.com/NolanCassidy/craigslist
+
 Rasterization Phong Shading https://github.com/NolanCassidy/rasterization-phong-shading
 
 Brevets Flask Auth Mongo Rest https://github.com/NolanCassidy/brevets-flask-auth-mongo-rest
