@@ -1,4 +1,4 @@
-#My Favorites#
+**My Favorites**
 Cold Call Helper https://github.com/NolanCassidy/cold_call_helper
 Rasterization Phong Shading https://github.com/NolanCassidy/rasterization-phong-shading
 Brevets Flask Auth Mongo Rest https://github.com/NolanCassidy/brevets-flask-auth-mongo-rest
@@ -16,7 +16,7 @@ Best Path BST https://github.com/NolanCassidy/best-path-bst
 Syntax Tree Mathematics https://github.com/NolanCassidy/syntax-tree-mathematics
 Red Black Tree https://github.com/NolanCassidy/red-black-tree
 
-#Full List of Technology Related Classes/Work/Projects#
+**Full List of Technology Related Classes/Work/Projects**
 422 Software Methodologies
 
 Spring 2019
