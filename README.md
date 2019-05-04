@@ -1,3 +1,22 @@
+#My Favorites#
+Cold Call Helper https://github.com/NolanCassidy/cold_call_helper
+Rasterization Phong Shading https://github.com/NolanCassidy/rasterization-phong-shading
+Brevets Flask Auth Mongo Rest https://github.com/NolanCassidy/brevets-flask-auth-mongo-rest
+External Help Bot https://www.oakwood.com/help
+Rasterization Image Processing https://github.com/NolanCassidy/rasterization-image-processing
+Website for the TRX CEO https://www.randyhetrick.com/
+Bubble Sort Assembly https://github.com/NolanCassidy/bubble-sort-assembly
+Server Client Network https://github.com/NolanCassidy/server-client-network
+Oculus Rail Shooter Game https://github.com/NolanCassidy/oculus-rail-shooter-game
+Unity Space Shooter https://github.com/NolanCassidy/unity-space-shooter
+Arduino Robotics https://github.com/NolanCassidy/arduino-robotics
+Mobile Roll a Ball Game https://github.com/NolanCassidy/mobile-roll-a-ball-game
+Dynamic Phrase Finder https://github.com/NolanCassidy/dynamic-phrase-finder
+Best Path BST https://github.com/NolanCassidy/best-path-bst
+Syntax Tree Mathematics https://github.com/NolanCassidy/syntax-tree-mathematics
+Red Black Tree https://github.com/NolanCassidy/red-black-tree
+
+#Full List of Technology Related Classes/Work/Projects#
 422 Software Methodologies
 
 Spring 2019
